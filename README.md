@@ -9,6 +9,7 @@ I am Rafael Augusto - Software Engineer with the experience of 8 years. Become a
 
 ⚙️ I also maintain a few open-source projects:
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
+- [financeapp](https://github.com/RafaelAugustoS/finance-app) - financial control application with react native.
 
 ---
 ⭐️ From https://github.com/rafaelaugustos/
