@@ -5,6 +5,7 @@ I am Rafael Augusto - Software Engineer with the experience of 8 years. Become a
 - 🌱  I’m currently learning Golang, Python and Kubernetes.
 - 💬  Ask me about Javascript, React, Vue, NativeScript, React Native, Redux, Recoil, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
 - 📫  How to reach me: [Twitter](https://twitter.com/rafaelaugustoms), [Email](mailTo:rafaelaugusto.developer@gmail.com).
+- ✍🏻  You can find some articles I write: [Medium](https://rafaelaugustodev.medium.com/)
 
 ⚙️ I also maintain a few open-source projects:
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
