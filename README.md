@@ -2,8 +2,8 @@
 
 I am Rafael Augusto - Software Engineer with the experience of 11 years. Become a software engineer by following my passion for programming. 
 
-- 🌱  I’m currently learning Golang, Elixir, Python and Kubernetes.
-- 💬  Ask me about Javascript, Web3, React, Vue, NativeScript, React Native, Redux, Recoil, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
+- 🌱  I’m currently learning Elixir, Python, Flutter and TensorFlow.
+- 💬  Ask me about Javascript, Web3, React, Vue, NativeScript, React Native, Redux, Recoil, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice, Kubernetes, Golang
 - 📫  How to reach me: [Twitter](https://twitter.com/rafaelaugustoms), [Email](mailTo:rafaelaugusto.developer@gmail.com).
 - ✍🏻  You can find some articles I write: [Medium](https://rafaelaugustodev.medium.com/)
 
