@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael Augusto - Software Engineer with the experience of 8 years. Become a software engineer by following my passion for programming. 
+I am Rafael Augusto - Software Engineer with the experience of 11 years. Become a software engineer by following my passion for programming. 
 
 - 🌱  I’m currently learning Golang, Elixir, Python and Kubernetes.
 - 💬  Ask me about Javascript, Web3, React, Vue, NativeScript, React Native, Redux, Recoil, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
